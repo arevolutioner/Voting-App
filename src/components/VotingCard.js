@@ -13,7 +13,6 @@ function VotingCard(props) {
           Vote
         </Button>
       </Card.Body>
-      <Card.Footer>Vote count: {team.votes}</Card.Footer>
     </Card>
   );
 }
