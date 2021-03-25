@@ -1,4 +1,5 @@
-# I'm building this App to learn React and practice JS. However, I hope that this Voting Web App will reach as many people as possible and get their real votes. 
+# What's this app about?
+### I'm building this App to learn React and practice JS. However, I hope that this Voting Web App will reach as many people as possible and get their real votes.
 # Tech Stack
 ## React.js, SCSS, react-bootstrap
 
